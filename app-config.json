@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": 1,
   "message": "This version of Kutta Anime is outdated. Please contact the developer to get the latest version."
 }
