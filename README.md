@@ -3,11 +3,11 @@
 The Android app checks this folder's `app-config.json` at every startup.
 The file must be pushed to:
 
-    https://github.com/arafat01rahman/version-control-anime-app.git
+    https://github.com/hakkarrr/version-control-anime-app.git
 
 The app fetches the RAW url:
 
-    https://raw.githubusercontent.com/arafat01rahman/version-control-anime-app/main/app-config.json
+    https://raw.githubusercontent.com/hakkarrr/version-control-anime-app/main/app-config.json
 
 (If your default branch is `master` instead of `main`, update `CONFIG_URL`
 in `android-app/app/src/main/java/com/kutta/anime/MainActivity.java`.)
